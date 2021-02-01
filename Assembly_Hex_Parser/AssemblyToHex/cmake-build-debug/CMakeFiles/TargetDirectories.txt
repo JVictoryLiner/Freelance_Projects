@@ -1,0 +1,3 @@
+D:/Programming/Freelance/AssemblyToHex/cmake-build-debug/CMakeFiles/AssemblyToHex.dir
+D:/Programming/Freelance/AssemblyToHex/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Freelance/AssemblyToHex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
