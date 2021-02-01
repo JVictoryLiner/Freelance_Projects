@@ -1,3 +1,0 @@
-"E:\Environment Variables\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\GioAssessment.dir/objects.a
-"E:\Environment Variables\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\GioAssessment.dir/objects.a @CMakeFiles\GioAssessment.dir\objects1.rsp
-"E:\Environment Variables\MinGW\mingw64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\GioAssessment.dir/objects.a -Wl,--no-whole-archive  -o GioAssessment.exe -Wl,--out-implib,libGioAssessment.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GioAssessment.dir\linklibs.rsp
