@@ -1,0 +1,2 @@
+D:\Programming\Freelance\BmiCalculator\BMI_Calculator\x64\Debug\BMI_Calculator.exe
+D:\Programming\Freelance\BmiCalculator\BMI_Calculator\x64\Debug\BMI_Calculator.pdb
