@@ -1,0 +1,3 @@
+D:/Programming/Freelance/BitumenBlockCalculator/cmake-build-debug/CMakeFiles/BitumenBlockCalculator.dir
+D:/Programming/Freelance/BitumenBlockCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Freelance/BitumenBlockCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
