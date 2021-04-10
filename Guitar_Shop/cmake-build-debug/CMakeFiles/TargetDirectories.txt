@@ -1,0 +1,3 @@
+D:/Programming/Freelance/GuitarShop/cmake-build-debug/CMakeFiles/GuitarShop.dir
+D:/Programming/Freelance/GuitarShop/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Freelance/GuitarShop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
