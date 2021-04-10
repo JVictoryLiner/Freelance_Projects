@@ -1,3 +1,0 @@
-"E:\Environment Variables\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\GuitarShop.dir/objects.a
-"E:\Environment Variables\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\GuitarShop.dir/objects.a @CMakeFiles\GuitarShop.dir\objects1.rsp
-"E:\Environment Variables\MinGW\mingw64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\GuitarShop.dir/objects.a -Wl,--no-whole-archive  -o GuitarShop.exe -Wl,--out-implib,libGuitarShop.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GuitarShop.dir\linklibs.rsp
