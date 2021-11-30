@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programming/machprob/data.h
+iostream
+-
+bits/stdc++.h
+-
+iostream
+-
+vector
+-
+list
+-
+queue
+-
+stack
+-
+string
+-
+
+D:/Programming/machprob/implementation.cpp
+bits/stdc++.h
+-
+iostream
+-
+vector
+-
+list
+-
+queue
+-
+stack
+-
+string
+-
+data.h
+D:/Programming/machprob/data.h
+iostream
+-
+

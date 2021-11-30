@@ -1,0 +1,80 @@
+Customer_ID:1
+Name:Nuriel Aguilar
+Address:San Juan City
+
+Customer_ID:2
+Name:Kirt Tejada
+Address:Davao City
+
+Customer_ID:3
+Name:Lynch Fabroa
+Address:Bataan City
+
+Customer_ID:4
+Name:Angela Dela Cruz
+Address:Manila City
+
+Customer_ID:5
+Name:Kurl Gabin
+Address:San Juan City
+
+Customer_ID:6
+Name:Johannes Gregorio
+Address:Manila City
+
+Customer_ID:7
+Name:Deo Buenavista
+Address:Manila City
+
+Customer_ID:8
+Name:Jonas Garcia
+Address:Batangas City
+
+Customer_ID:9
+Name:Ron Artest
+Address:Palawan City
+
+Customer_ID:10
+Name:Maria Bartolome
+Address:Mandaluyong City
+
+Customer_ID:11
+Name:Kyla Sarmiento
+Address:Mandaluyong City
+
+Customer_ID:12
+Name:Rey Edubas
+Address:Quezon City
+
+Customer_ID:13
+Name:Pardeep Singh
+Address:San Juan City
+
+Customer_ID:14
+Name:Nemuel Aguilar
+Address:San Juan City
+
+Customer_ID:15
+Name:Isaac Betic
+Address:Tondo Manila
+
+Customer_ID:16
+Name:Dieter De San Jose
+Address:Laguna City
+
+Customer_ID:17
+Name:Samantha Cruz
+Address:Cebu City
+
+Customer_ID:18
+Name:Albert Cansino
+Address:Cavite City
+
+Customer_ID:19
+Name:Darren Coprado
+Address:San Juan City
+
+Customer_ID:20
+Name:Adrian Fria
+Address:Sampaloc Manila
+

@@ -1,0 +1,3 @@
+Customer_ID:Nuriel Aguilar
+Name:San Juan City
+Video_ID:1
